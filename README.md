@@ -1,4 +1,4 @@
-<h1 align="left" style="background-color:white">Kumar Saurav</h1>
+<h1 align="left" >Kumar Saurav</h1>
 <h3 align="left">Senior Software Engineer (Integration Specialist)</h3>
 
 - 🔭I’m currently pursuing **MS in Business Analytics from Hult International Business School.**
