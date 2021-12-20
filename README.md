@@ -11,7 +11,8 @@
 
 - 👨‍💻 My Tableau public profile [https://public.tableau.com/app/profile/kumar.saurav6886](https://public.tableau.com/app/profile/kumar.saurav6886)
 
-- 💬 Ask me about **Experienced Senior Software Engineer (Integration Specialist) with a demonstrated history of working in the computer software industry. Skilled in Full-Stack(Front-end and Back-end), Dot Net Core, ANGULAR, System Integration, SOA Java Service, WCF, Microservices, Jira, C#, SQL Server, Data Engineer, Python, Machine Learning, Statistics, Data Analytics, R, SAS, Data visualization, Text Analysis. Strong consulting professional with a Bachelor of Technology - BTech focused in Computer Science Engineering from Biju Patnaik University of Technology, India.**
+- 💬 Experienced Senior Software Engineer (Integration Specialist) with a demonstrated history of working in the computer software industry. 
+      Skilled in Full-Stack(Front-end and Back-end), Dot Net Core, ANGULAR, System Integration, SOA Java Service, WCF, Microservices, Jira, C#, SQL Server, Data Engineer,             Python,Machine Learning, Statistics, Data Analytics, R, SAS, Data visualization, Text Analysis. Strong consulting professional with a Bachelor of Technology - BTech             focused in Computer Science Engineering from Biju Patnaik University of Technology, India.**
 
 - 📫 How to reach me **sauravtm1991@gmail.com or through LinkedIn https://www.linkedin.com/in/kmrsaurav123/**
 
