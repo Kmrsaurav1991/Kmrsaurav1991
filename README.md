@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **data engineering**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **Azure,Data Engineer**
 
 - 👨‍💻 My Tableau public profile [https://public.tableau.com/app/profile/kumar.saurav6886](https://public.tableau.com/app/profile/kumar.saurav6886)
 
